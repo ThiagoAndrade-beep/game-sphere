@@ -1,3 +1,9 @@
+![gameSphere(1)](https://github.com/user-attachments/assets/76b7cd03-7b8c-406f-87d4-c497d8264bf2)
+![gameSphere(2)](https://github.com/user-attachments/assets/179801f8-ca3d-46fe-b83d-76b830647cf1)
+![gameSphere(3)](https://github.com/user-attachments/assets/63df163e-e155-4ef9-b036-8f165eb30513)
+![gameSphere(4)](https://github.com/user-attachments/assets/df475cec-a984-486e-861b-65534e02ef0c)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

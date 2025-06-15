@@ -1,0 +1,64 @@
+.lista-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+    margin: 3rem auto 0 auto;
+    max-width: 1200px;
+    padding: 0 1rem;
+    align-items: stretch;
+  }
+  
+  .produto-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid #3F3F46;
+    padding: 16px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #18181B;
+  }
+  
+  .img-produto {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+    margin-bottom: 1rem;
+  }
+  
+  .produto-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    gap: 0.6rem;
+    flex-grow: 1;
+  }
+  
+  .produto-title {
+    color: #ccc;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .produto-price {
+    color: #E4E4E7;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  
+  .produto-btn {
+    background-color: #9333EA;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 0.8rem;
+    color: white;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .produto-btn:hover {
+    background-color: #7e22ce;
+  }
+  

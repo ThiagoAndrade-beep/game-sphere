@@ -5,6 +5,8 @@ import monitorImg from '../assets/product-image-monitor.jpg'
 import tecladoImg from '../assets/product-image-teclado.jpg'
 import headsetImg from '../assets/product-image-headset.jpg'
 import cadeiraImg from '../assets/product-image-cadeira.jpg'
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 
 
@@ -27,6 +29,8 @@ const ListaProdutos = ({ setProdutos, setContadorProdutos }) => {
         })
 
         setContadorProdutos(prev => prev + 1)
+
+        toast.success('Produto adicionado ao carrinho');
     }
     return (
         <div className='lista-container'>
@@ -40,6 +44,7 @@ const ListaProdutos = ({ setProdutos, setContadorProdutos }) => {
                     </div>
                 </div>
             ))}
+            <ToastContainer />
         </div>
     )
 }

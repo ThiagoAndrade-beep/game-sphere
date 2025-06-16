@@ -30,7 +30,7 @@ const ListaProdutos = ({ setProdutos, setContadorProdutos }) => {
 
         setContadorProdutos(prev => prev + 1)
 
-        toast.success('Produto adicionado ao carrinho');
+        toast.success(`${item.nome} adicionado ao carrinho`);
     }
     return (
         <div className='lista-container'>

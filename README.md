@@ -1,7 +1,9 @@
-![gameSphere(1)](https://github.com/user-attachments/assets/76b7cd03-7b8c-406f-87d4-c497d8264bf2)
-![gameSphere(2)](https://github.com/user-attachments/assets/179801f8-ca3d-46fe-b83d-76b830647cf1)
-![gameSphere(3)](https://github.com/user-attachments/assets/63df163e-e155-4ef9-b036-8f165eb30513)
-![gameSphere(4)](https://github.com/user-attachments/assets/df475cec-a984-486e-861b-65534e02ef0c)
+
+![gameSphere(1)](https://github.com/user-attachments/assets/9e809c0f-75be-48a8-82be-9a0aa8c153e3)
+![gameSphere(2)](https://github.com/user-attachments/assets/af747c71-b43f-4081-8805-54b25304cb46)
+![gameSphere(3)](https://github.com/user-attachments/assets/cf48bd83-54d0-4b10-be61-448b04529885)
+![gameSphere(4)](https://github.com/user-attachments/assets/f50b5b37-742a-487a-bcf1-367c1bda72d2)
+
 
 
 # React + Vite
